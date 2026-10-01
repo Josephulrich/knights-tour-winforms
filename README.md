@@ -1,4 +1,4 @@
-# Knight's Tour — C# WinForms
+# Knight's Tour | C# WinForms
 
 ![Knight's Tour application](assets/screenshots/begin.png)
 
